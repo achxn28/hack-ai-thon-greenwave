@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  scroll-behavior: smooth;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: #fbfdfb; color: #10251d; }
+::selection { background: #b8f1d0; color: #064b33; }
+button, input { font: inherit; }
