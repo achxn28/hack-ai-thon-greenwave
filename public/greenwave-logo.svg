@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 45 410 315" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 410" role="img" aria-labelledby="title desc">
   <title id="title">GreenWave</title>
   <desc id="desc">The GreenWave logo: Smart concession ordering. Skip the line. Stay in the game.</desc>
-  <image href="/image.png" x="0" y="0" width="410" height="410" preserveAspectRatio="none" />
+  <image href="/image.png" x="0" y="0" width="410" height="410" preserveAspectRatio="xMidYMid meet" />
 </svg>
