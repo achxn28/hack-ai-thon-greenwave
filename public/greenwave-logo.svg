@@ -1,12 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 45 410 315" role="img" aria-labelledby="title desc">
   <title id="title">GreenWave</title>
-  <desc id="desc">GreenWave smart concession ordering: Skip the line. Stay in the game.</desc>
-  <g fill="none" stroke="#087447" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M22 48c43-2 64-24 110-23 42 1 54 18 97 17 42-1 67-22 111-19 46 3 62 25 103 25 41 0 58-19 98-18" stroke-width="12" opacity=".55"/>
-    <path d="M16 70c54 4 77-11 124-9 43 2 59 20 101 19 47-1 66-19 109-19 43 0 62 22 107 21 41-1 61-19 93-17" stroke-width="13" opacity=".78"/>
-    <path d="M12 95c44 5 87-1 130 1 50 2 70 17 115 16 48-1 67-14 110-14 44 0 68 17 108 16 38-1 62-11 88-10" stroke-width="14"/>
-    <path d="M21 120c51 3 76 8 121 8h359" stroke-width="5" opacity=".42"/>
-  </g>
-  <text x="24" y="137" fill="#064b33" font-family="Arial, Helvetica, sans-serif" font-size="64" font-style="italic" font-weight="900" letter-spacing="-4">GREENWAVE</text>
-  <text x="29" y="160" fill="#087447" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">SMART CONCESSION ORDERING</text>
+  <desc id="desc">The GreenWave logo: Smart concession ordering. Skip the line. Stay in the game.</desc>
+  <image href="/image.png" x="0" y="0" width="410" height="410" preserveAspectRatio="none" />
 </svg>
